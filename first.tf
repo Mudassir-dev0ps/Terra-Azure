@@ -13,6 +13,6 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "example" {
-  name     = "latestrg"
+  name     = "mudassir"
   location = "westus"
 }
